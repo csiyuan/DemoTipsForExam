@@ -1,0 +1,2 @@
+rootProject.name='Demo Spinner Test'
+include ':app'
